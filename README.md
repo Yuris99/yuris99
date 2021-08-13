@@ -1,7 +1,9 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuris99&show_icons=true&theme=radical&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+<br\>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuris99&show_icons=true&theme=radical&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuris99&show_icons=true&theme=radical&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+<br\>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuris99&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Yuris99/yuris99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

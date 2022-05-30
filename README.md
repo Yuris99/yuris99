@@ -3,7 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuris99&show_icons=true&theme=radical&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yuris](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuris)](https://solved.ac/yuris)
 
 
 <!--

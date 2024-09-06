@@ -1,6 +1,6 @@
-<p style="text-align: center">[![Solved.ac
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuris)](https://solved.ac/yuris)
-</p>
+
 🚧 yuris.io 🚧
 
 <!--

@@ -1,10 +1,6 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuris99&show_icons=true&theme=radical&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Solved.ac
+<p style="text-align: center">[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuris)](https://solved.ac/yuris)
-
+</p>
 🚧 yuris.io 🚧
 
 <!--
